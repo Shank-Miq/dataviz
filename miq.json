@@ -7,21 +7,21 @@
     {
      "name": "Macro Data",
      "children": [
-      {"name": "Reddit", "value": 5000},
-      {"name": "Experian", "value": 5000},
-      {"name": "Kogenta", "value": 5000},
-      {"name": "Environics", "value": 5000},
-      {"name": "Accu Weather", "value": 5000},
-      {"name": "Google Finance", "value": 5000},
-      {"name": "World Weather Online", "value": 5000},
-      {"name": "4C", "value": 5000},
-      {"name": "Hive Stack", "value": 5000},
-      {"name": "Vistar Media", "value": 5000},
-      {"name": "Kinetic", "value": 5000},
-      {"name": "Similarweb", "value": 5000},
-      {"name": "Scope3", "value": 5000},
-      {"name": "Adelaide", "value": 5000},
-      {"name": "International Showtimes", "value": 5000}
+      {"name": "Reddit", "value": 1},
+      {"name": "Experian", "value": 2},
+      {"name": "Kogenta", "value": 3},
+      {"name": "Environics", "value": 4},
+      {"name": "Accu Weather", "value": 5},
+      {"name": "Google Finance", "value": 6},
+      {"name": "World Weather Online", "value": 7},
+      {"name": "4C", "value": 8},
+      {"name": "Hive Stack", "value": 9},
+      {"name": "Vistar Media", "value": 10},
+      {"name": "Kinetic", "value": 11},
+      {"name": "Similarweb", "value": 12},
+      {"name": "Scope3", "value": 13},
+      {"name": "Adelaide", "value": 14},
+      {"name": "International Showtimes", "value": 15}
      ]
     },
     {
