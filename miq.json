@@ -1,4 +1,7 @@
 {
+ "name": "Datasets",
+ "children": [
+  {
    "name": "MiQ Data Sources",
    "children": [
     {
@@ -105,6 +108,8 @@
       {"name": "OperatorSequence", "value": 4190},
       {"name": "OperatorSwitch", "value": 2581},
       {"name": "SortOperator", "value": 2023}
+     ]
+    }
    ]
   }
  ]
