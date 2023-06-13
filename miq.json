@@ -5,16 +5,6 @@
    "name": "MiQ Data Sources",
    "children": [
     {
-     "name": "axis",
-     "children": [
-      {"name": "Axes", "value": 1302},
-      {"name": "Axis", "value": 24593},
-      {"name": "AxisGridLine", "value": 652},
-      {"name": "AxisLabel", "value": 636},
-      {"name": "CartesianAxes", "value": 6703}
-     ]
-    },
-    {
      "name": "Macro Data",
      "children": [
       {"name": "AnchorControl", "value": 2138},
