@@ -27,11 +27,11 @@
     {
      "name": "Third-Party Data",
      "children": [
-      {"name": "Data", "value": 20544},
-      {"name": "DataList", "value": 19788},
-      {"name": "DataSprite", "value": 10349},
-      {"name": "EdgeSprite", "value": 3301},
-      {"name": "NodeSprite", "value": 19382},
+      {"name": "MOAT", "value": 20544},
+      {"name": "comScore", "value": 19788},
+      {"name": "IAS", "value": 10349},
+      {"name": "adloox", "value": 3301},
+      {"name": "Double Verify", "value": 19382},
       {
        "name": "render",
        "children": [
