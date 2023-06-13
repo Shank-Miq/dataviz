@@ -7,19 +7,19 @@
     {
      "name": "Macro Data",
      "children": [
-      {"name": "Reddit", "value": 1},
+      {"name": "Reddit", "value": 7},
       {"name": "Experian", "value": 2},
       {"name": "Kogenta", "value": 3},
       {"name": "Environics", "value": 4},
       {"name": "Accu Weather", "value": 5},
-      {"name": "Google Finance", "value": 6},
-      {"name": "World Weather Online", "value": 7},
+      {"name": "Google Finance", "value": 13},
+      {"name": "World Weather Online", "value": 11},
       {"name": "4C", "value": 8},
       {"name": "Hive Stack", "value": 9},
       {"name": "Vistar Media", "value": 10},
-      {"name": "Kinetic", "value": 11},
+      {"name": "Kinetic", "value": 1},
       {"name": "Similarweb", "value": 12},
-      {"name": "Scope3", "value": 13},
+      {"name": "Scope3", "value": 6},
       {"name": "Adelaide", "value": 14},
       {"name": "International Showtimes", "value": 15}
      ]
