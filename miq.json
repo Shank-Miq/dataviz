@@ -13,7 +13,7 @@
       {"name": "Environics", "value": 8000},
       {"name": "Accu Weather", "value": 7200},
       {"name": "Google Finance", "value": 5200},
-      {"name": "World Weather Online", "value": 3000},
+      {"name": "World Weather Online", "value": 13000},
       {"name": "4C", "value": 7100},
       {"name": "Hive Stack", "value": 7300},
       {"name": "Vistar Media", "value": 4000},
@@ -21,7 +21,7 @@
       {"name": "Similarweb", "value": 7800},
       {"name": "Scope3", "value": 7900},
       {"name": "Adelaide", "value": 8200},
-      {"name": "International Showtimes", "value": 6500}
+      {"name": "International Showtimes", "value": 10500}
      ]
     },
     {
